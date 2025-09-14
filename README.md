@@ -2,6 +2,8 @@
 
 ![RAG Pipeline Architecture](Images/rag-vertex-ai-vector-search-arch.png)
 
+![RAG Debug Mode with Vector Search Logging](Images/rag-debug-vector-search-logging.gif)
+
 ## Table of Contents
 - [Introduction](#introduction)
 - [What is Text Embedding?](#what-is-text-embedding)
